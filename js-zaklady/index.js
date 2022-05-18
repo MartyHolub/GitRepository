@@ -39,4 +39,3 @@ pozdav('Martine', 'Novák');
 let number = nadruhou(2);
 console.log(nadruhou(3));
 
-console.log('2');
