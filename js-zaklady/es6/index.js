@@ -1,4 +1,4 @@
-import {Teacher} from './teacher';
+import Teacher from './teacher.js';
 
 const teacher = new Teacher("Martin","Mgr");
 
